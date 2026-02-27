@@ -1,0 +1,7 @@
+@font-face {
+    font-family: s;
+    src: url('../yekan-regular.woff') format('woff');
+}
+*{
+    font-family: s;
+}
